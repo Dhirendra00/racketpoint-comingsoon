@@ -91,7 +91,7 @@ function ComingSoon() {
               style={{ background: "radial-gradient(closest-side, rgba(255,255,255,0.25), transparent 70%)" }}
             />
             <img
-              src={logo.url}
+              src={logo}
               alt="Racket Point Nepal — Badminton House"
               width={220}
               height={220}
