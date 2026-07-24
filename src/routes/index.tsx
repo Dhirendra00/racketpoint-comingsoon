@@ -32,7 +32,7 @@ export const Route = createFileRoute("/")({
 });
 
 const FACEBOOK_URL = "https://www.facebook.com/share/1DVDTFHHn9/?mibextid=wwXIfr";
-const INSTAGRAM_URL = "https://www.instagram.com/racketpointnepal";
+const INSTAGRAM_URL = "https://www.instagram.com/racketpointnepal?igsh=MWQ0MjB2eGlxd3hqNg%3D%3D&utm_source=qr";
 
 function ComingSoon() {
   return (
