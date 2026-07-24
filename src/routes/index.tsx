@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Facebook, Instagram, Phone, MapPin } from "lucide-react";
-import logo from "@/assets/logo.jpeg.asset.json";
+import logo from "@/assets/main_logo.jpeg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
