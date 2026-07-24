@@ -188,7 +188,7 @@ function ComingSoon() {
                 Call
               </div>
               <div className="mt-1 truncate text-sm font-semibold text-white">
-                +977 9749809000
+                +977 9868546995
               </div>
             </div>
           </a>
