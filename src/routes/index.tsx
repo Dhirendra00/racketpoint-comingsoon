@@ -31,7 +31,7 @@ export const Route = createFileRoute("/")({
   component: ComingSoon,
 });
 
-const FACEBOOK_URL = "https://www.facebook.com/racketpointnepal";
+const FACEBOOK_URL = "https://www.facebook.com/share/1DVDTFHHn9/?mibextid=wwXIfr";
 const INSTAGRAM_URL = "https://www.instagram.com/racketpointnepal";
 
 function ComingSoon() {
